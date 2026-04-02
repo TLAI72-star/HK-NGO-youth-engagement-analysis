@@ -1,0 +1,32 @@
+year,district,youth_population_12_24,youth_population_25_39,youth_population_12_39,children_youth_centres,community_centres,centres_per_10k_youth,community_venues_per_10k_youth
+2021,Central and Western,14500,24800,39300,6,8,1.53,2.04
+2021,Eastern,28600,49700,78300,11,15,1.4,1.92
+2021,Islands,8200,12900,21100,3,4,1.42,1.9
+2021,Kowloon City,16700,28900,45600,8,10,1.75,2.19
+2021,Kwai Tsing,21400,37400,58800,9,12,1.53,2.04
+2021,Kwun Tong,33800,59200,93000,12,18,1.29,1.94
+2021,North,15800,26800,42600,7,9,1.64,2.11
+2021,Sai Kung,22200,39600,61800,8,13,1.29,2.1
+2021,Sha Tin,33600,58400,92000,12,17,1.3,1.85
+2021,Sham Shui Po,18400,31600,50000,7,11,1.4,2.2
+2021,Southern,14700,25600,40300,5,7,1.24,1.74
+2021,Tai Po,16400,28300,44700,6,9,1.34,2.01
+2021,Tsuen Wan,17600,30300,47900,7,10,1.46,2.09
+2021,Tuen Mun,29000,50100,79100,10,14,1.26,1.77
+2021,Wan Chai,10300,17800,28100,4,5,1.42,1.78
+2021,Wong Tai Sin,21800,37600,59400,9,12,1.51,2.02
+2021,Yau Tsim Mong,15800,27400,43200,6,8,1.39,1.85
+2021,Yuen Long,31400,54800,86200,11,16,1.28,1.86
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+Source,,,,,,,,
+"(Youth Blueprint ??Demographic Characteristics) (2021) (https://www.youthblueprint.gov.hk/en/dashboard/data/youth_dashboard_demographic_characteristics_en.xlsx)
+
+(DATA.GOV.HK ??List of Children and Youth Centres) (2018) (https://data.gov.hk/en-data/dataset/hk-swd-ycb-list-of-cycs)
+
+(DATA.GOV.HK ??List of Community Centres) (n.d.) (https://data.gov.hk/en-data/dataset/hk-swd-ycb-list-of-cc)
+
+(DATA.GOV.HK ??List of community halls/community centres) (n.d.) (https://data.gov.hk/en-data/dataset/hk-had-json1-chcc)
+
+(Hong Kong NGO Governance Index) (2025) (https://hkujcesgri.hku.hk/hku-jc-sustainability-index/hong-kong-ngo-governance-index/)",,,,,,,,
