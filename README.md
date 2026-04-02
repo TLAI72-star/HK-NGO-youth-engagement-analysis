@@ -1,17 +1,19 @@
-# HK-NGO-youth-engagement-analysis
-Beginner-friendly Hong Kong NGO and youth engagement analysis project using public district-level data, Excel summaries, and AI-assisted insight generation.
 # NGO & Youth Engagement Analysis in Hong Kong
 
 ## Project Overview
 This project analyzes publicly available Hong Kong district-level data to explore youth population distribution and the availability of community and youth support resources.
 
-The goal is to identify potential gaps between youth population needs and the distribution of community facilities such as youth centres and community centres.
+The goal is to identify potential gaps between youth population needs and the distribution of community facilities, and to explore how these challenges can be addressed through better coordination and engagement.
+
+---
 
 ## Objectives
 - Analyze youth population distribution across districts
 - Evaluate availability of youth and community centres
 - Identify potential underserved districts
-- Provide insights for improving resource allocation
+- Explore how data insights can inform practical solutions
+
+---
 
 ## Data Sources
 This project uses publicly available Hong Kong data, including:
@@ -20,71 +22,120 @@ This project uses publicly available Hong Kong data, including:
 
 Data was combined and structured into a single dataset for analysis.
 
+---
+
 ## Tools Used
 - Excel (data cleaning, pivot-style summary, charts)
 - AI tools (data structuring and insight generation)
 - GitHub (project documentation)
 
-## Dataset Columns
-The dataset includes:
-- `year`
-- `district`
-- `youth_population_12_24`
-- `youth_population_25_39`
-- `youth_population_12_39`
-- `children_youth_centres`
-- `community_centres`
-- `centres_per_10k_youth`
-- `community_venues_per_10k_youth`
+---
 
-## Analysis Process
-1. Combined multiple public datasets into a structured CSV
-2. Cleaned and formatted the dataset
-3. Aggregated district-level statistics
-4. Compared youth population with available resources
-5. Visualized key patterns using charts
+## Key Visualization
+
+### Youth Centre Distribution by District
+
+![Youth Centres Distribution](Chart_of_youth_centre.png)
+
+This visualization shows that:
+- Youth centres are not evenly distributed across districts
+- Some districts with high youth population do not have proportionally more centres
+- Resource allocation may not fully match demand
+
+---
 
 ## Key Insights
-- Youth population distribution varies significantly across districts.
-- Some districts have relatively high youth populations but fewer community resources.
-- Availability of youth centres is not evenly distributed.
-- Resource allocation may not fully match population demand.
-- Certain districts may be underserved in terms of youth engagement infrastructure.
+- Youth population distribution varies significantly across districts  
+- Some districts have relatively high youth populations but fewer community resources  
+- Availability of youth centres is uneven  
+- Resource allocation does not always match population demand  
+- Certain districts may be underserved  
 
-## Recommendations
-1. Increase youth service resources in high-demand districts.
-2. Improve balance between population needs and facility distribution.
-3. Encourage cross-district collaboration to share resources.
+---
 
-## Files
-- `hong_kong_ngo_youth_district_analysis.csv` — original combined dataset
-- `NGO_Analysis_Output.xlsx` — formatted data, summary sheet, and chart
-- `analysis_notes.md` — written analysis summary
+## From Data to Problem
 
-## What I Learned
-This project helped me understand how to combine public datasets, analyze district-level differences, and translate data into practical insights for decision-making.
+Beyond resource distribution, the data also implies potential inefficiencies in how existing resources are utilized and coordinated.
+
+Even where facilities exist:
+- Youth may not be fully aware of available opportunities  
+- Volunteer participation may be inconsistent  
+- NGOs may operate in silos with limited coordination  
+- Staff may rely on manual communication processes  
+
+This suggests that the challenge is not only about **"how many resources exist"**, but also **"how effectively they are used"**.
+
+---
 
 ## Prototype Solution (NGO Platform Concept)
 
-Based on the analysis, a key issue identified is the mismatch between youth demand and available engagement resources, as well as potential challenges in managing volunteers.
+To address these challenges, I developed a simple prototype platform for NGOs and youth service centres.
 
-To address this, I developed a simple prototype platform concept for NGOs:
+---
 
-### Key Features
-- Staff can publish and manage volunteer activities
-- Youth can browse activities, join opportunities, and track their points
-- Youth can redeem gifts using points, such as bubble milk tea tickets
-- Organizations or individuals can submit place booking requests
-- Organizations or individuals can request youth volunteers for collaboration
-- Staff can review, approve, edit, and publish requests in one system
-- Approved requests are visible to youth as joinable or informational posts
-- Bilingual interface support in English and Chinese
+### 🔹 Organization / Partner Portal
 
-This prototype demonstrates how a simple digital platform can improve volunteer engagement, reduce administrative workload, and make coordination between youth, centre staff, and external partners more efficient.
+![Organization Portal](youthplatform_organzitaionpage_allow-venue-booking-volunteer-colaboration.png)
 
-Additionally, it demonstrates how data insights can be translated into a practical solution to improve volunteer engagement and resource coordination.
+- Submit venue booking requests  
+- Request youth volunteers for collaboration  
+- Track request status (pending / approved)  
+- Centralized communication with centres  
 
-> Note: This is an early-stage concept prototype and is included to demonstrate problem-solving thinking rather than full system development.
+---
 
-File:
-- `prototype_1.zip` — platform prototype (concept)
+### 🔹 Staff Management Dashboard
+
+![Staff Dashboard](youthplatform_staffpage_manage-volunteer-activity-request.png)
+
+- Approve and manage incoming requests  
+- Create and publish volunteer activities  
+- Track volunteer participation  
+- Reduce manual coordination workload  
+
+---
+
+### 🔹 Youth Volunteer Dashboard
+
+![Youth Dashboard](youthplatform_youthpage_allow-join-activity-get-point-gift-exchange.png)
+
+- Browse and join volunteer activities  
+- Track participation and points  
+- Redeem rewards (e.g. vouchers, gifts)  
+- Discover meaningful engagement opportunities  
+
+---
+
+## Purpose of the Platform
+The platform aims to:
+- Improve visibility of volunteer opportunities  
+- Increase youth participation and motivation  
+- Reduce administrative workload for staff  
+- Improve coordination between NGOs  
+- Enhance utilization of existing community resources  
+
+---
+
+## Files
+- `hong_kong_ngo_youth_district_analysis.csv` — dataset  
+- `NGO_Analysis_Output.xlsx` — formatted data, summary, charts  
+- `analysis_notes.md` — detailed analysis  
+- `ngo-volunteer-platform-prototype.zip` — platform prototype  
+
+---
+
+## What I Learned
+This project helped me understand how to:
+- Combine public datasets into structured analysis  
+- Identify real-world problems using data  
+- Translate insights into practical solutions  
+- Connect data analysis with product thinking  
+
+---
+
+## Project Summary
+This project demonstrates a complete workflow:
+
+**Data → Insight → Problem → Solution**
+
+It shows how data analysis can go beyond visualization and support real-world decision-making and system design.
