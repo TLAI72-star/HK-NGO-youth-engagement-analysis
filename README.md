@@ -63,3 +63,22 @@ The dataset includes:
 
 ## What I Learned
 This project helped me understand how to combine public datasets, analyze district-level differences, and translate data into practical insights for decision-making.
+
+## Prototype Solution (NGO Platform Concept)
+
+Based on the analysis, a key issue identified is the mismatch between youth demand and available engagement resources, as well as potential challenges in managing volunteers.
+
+To address this, I developed a simple prototype platform concept for NGOs:
+
+### Key Features
+- Volunteer registration and tracking
+- Activity and event management
+- Matching youth with suitable opportunities
+- Basic coordination between organizations
+
+This prototype demonstrates how data insights can be translated into a practical solution to improve volunteer engagement and resource coordination.
+
+> Note: This is an early-stage concept prototype and is included to demonstrate problem-solving thinking rather than full system development.
+
+File:
+- `prototype_1.zip` — platform prototype (concept)
