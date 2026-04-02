@@ -77,6 +77,8 @@ To address these challenges, I developed a simple prototype platform for NGOs an
 
 ![Organization Portal](youthplatform_organzitaionpage_allow-venue-booking-volunteer-colaboration.png)
 
+![Organization Portal 2](youthplatform_organzitaionpage_allow-venue-booking-volunteer-colaboration-2.png)
+
 - Submit venue booking requests  
 - Request youth volunteers for collaboration  
 - Track request status (pending / approved)  
@@ -88,6 +90,8 @@ To address these challenges, I developed a simple prototype platform for NGOs an
 
 ![Staff Dashboard](youthplatform_staffpage_manage-volunteer-activity-request.png)
 
+![Staff Dashboard 2](youthplatform_staffpage_manage-volunteer-activity-request-2.png)
+
 - Approve and manage incoming requests  
 - Create and publish volunteer activities  
 - Track volunteer participation  
@@ -98,6 +102,8 @@ To address these challenges, I developed a simple prototype platform for NGOs an
 ### 🔹 Youth Volunteer Dashboard
 
 ![Youth Dashboard](youthplatform_youthpage_allow-join-activity-get-point-gift-exchange.png)
+
+![Youth Dashboard 2](youthplatform_youthpage_allow-join-activity-get-point-gift-exchange-2.png)
 
 - Browse and join volunteer activities  
 - Track participation and points  
